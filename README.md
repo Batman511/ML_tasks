@@ -1,2 +1,2 @@
 # ML_tasks
-Academic tasks in ML
+Here are the labs within the discipline of machine learning and the solutions to the Kaggle competition
